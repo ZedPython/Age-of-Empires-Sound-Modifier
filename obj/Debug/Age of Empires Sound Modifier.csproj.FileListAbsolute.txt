@@ -1,0 +1,12 @@
+c:\users\lord\documents\visual studio 2015\Projects\Age of Empires Sound Modifier\Age of Empires Sound Modifier\bin\Debug\Age of Empires Sound Modifier.exe.config
+c:\users\lord\documents\visual studio 2015\Projects\Age of Empires Sound Modifier\Age of Empires Sound Modifier\bin\Debug\Age of Empires Sound Modifier.exe
+c:\users\lord\documents\visual studio 2015\Projects\Age of Empires Sound Modifier\Age of Empires Sound Modifier\bin\Debug\Age of Empires Sound Modifier.pdb
+c:\users\lord\documents\visual studio 2015\Projects\Age of Empires Sound Modifier\Age of Empires Sound Modifier\obj\Debug\Age of Empires Sound Modifier.csprojResolveAssemblyReference.cache
+c:\users\lord\documents\visual studio 2015\Projects\Age of Empires Sound Modifier\Age of Empires Sound Modifier\obj\Debug\Age_of_Empires_Sound_Modifier.Form1.resources
+c:\users\lord\documents\visual studio 2015\Projects\Age of Empires Sound Modifier\Age of Empires Sound Modifier\obj\Debug\Age_of_Empires_Sound_Modifier.Properties.Resources.resources
+c:\users\lord\documents\visual studio 2015\Projects\Age of Empires Sound Modifier\Age of Empires Sound Modifier\obj\Debug\Age of Empires Sound Modifier.csproj.GenerateResource.Cache
+c:\users\lord\documents\visual studio 2015\Projects\Age of Empires Sound Modifier\Age of Empires Sound Modifier\obj\Debug\Age of Empires Sound Modifier.exe
+c:\users\lord\documents\visual studio 2015\Projects\Age of Empires Sound Modifier\Age of Empires Sound Modifier\obj\Debug\Age of Empires Sound Modifier.pdb
+c:\users\lord\documents\visual studio 2015\Projects\Age of Empires Sound Modifier\Age of Empires Sound Modifier\obj\Debug\Interop.MediaPlayer.dll
+c:\users\lord\documents\visual studio 2015\Projects\Age of Empires Sound Modifier\Age of Empires Sound Modifier\obj\Debug\Age of Empires Sound Modifier.csproj.ResolveComReference.cache
+c:\users\lord\documents\visual studio 2015\Projects\Age of Empires Sound Modifier\Age of Empires Sound Modifier\obj\Debug\Interop.WMPLib.dll
